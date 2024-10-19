@@ -1,10 +1,10 @@
 {
 	"$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
 	"filename": "NewHorizonsConfig.dll",
-	"author": "[your name]",
-	"name": "[your readable mod name]",
-	"uniqueName": "[your name].[your unique mod ID]",
-	"version": "0.0.0",
+	"author": "Ganymede2076, Orbital 32 (a.k.a. cigtu) and members from the discord modding server",
+	"name": "i let the voices on the discord server make bad ideas for planets 2: electric boogaloo",
+	"uniqueName": "gany.iltvontdsmbifp2eb",
+	"version": "0.1.0",
 	"owmlVersion": "2.13.0",
 	"dependencies": [ "xen.NewHorizons" ]
 }

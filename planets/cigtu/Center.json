@@ -1,0 +1,19 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "El Sol",
+	"starSystem": "_DEMO.WackAhh",
+	"Base": {
+		"surfaceGravity": 10,
+		"surfaceSize": 1000,
+		"hasMapMarker": false,
+		"centerOfSolarSystem": true
+	},
+	"Star": {
+		"size": 1000,
+		"tint": {
+			"r": 150,
+			"g": 150,
+			"b": 150
+		}
+	}
+}

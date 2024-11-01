@@ -1,0 +1,81 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Blonko",
+	"starSystem": "_DEMO.WackAhh",
+	"Base": {
+		"surfaceGravity": 15,
+		"soiOverride": 150,
+		"gravityVolumePriority": 10,
+		"surfaceSize": 100,
+		"hasMapMarker": true
+	},
+	"MapMarker": {
+		"enabled": true
+	},
+	"ReferenceFrame": {
+		"enabled": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 50,
+		"inclination": -2,
+		"primaryBody": "vorp6",
+		"showOrbitLine": true
+	},
+	"Funnel": {
+		"type": "sand",
+		"target": "vorp1"
+	},
+	"Sand": {
+		"size": 100,
+		"curve": [
+			{
+				"time": 0,
+				"value": 0
+			},
+			{
+				"time": 2,
+				"value": 1
+			},
+			{
+				"time": 4,
+				"value": 0
+			},
+			{
+				"time": 6,
+				"value": 1
+			},
+			{
+				"time": 8,
+				"value": 0
+			},
+			{
+				"time": 10,
+				"value": 1
+			},
+			{
+				"time": 12,
+				"value": 0
+			},
+			{
+				"time": 14,
+				"value": 1
+			},
+			{
+				"time": 16,
+				"value": 0
+			},
+			{
+				"time": 18,
+				"value": 1
+			},
+			{
+				"time": 20,
+				"value": 0
+			},
+			{
+				"time": 22,
+				"value": 1
+			}
+		]
+	}
+}

@@ -1,7 +1,7 @@
 {
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name" : "El Sol",
-	"starSystem" : "_DEMO.WackAhh",
+	"starSystem" : "gany.Discord2",
 	"Base" :
 	{
 		"surfaceGravity" : 100,

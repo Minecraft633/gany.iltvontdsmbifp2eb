@@ -1,7 +1,7 @@
 {
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name": "vorp2",
-	"starSystem": "_DEMO.WackAhh",
+	"starSystem": "gany.Discord2",
 	"Base": {
 		"surfaceGravity": 35,
 		"soiOverride": 1500,
@@ -19,6 +19,6 @@
 		"semiMajorAxis": 300,
 		"inclination": 315,
 		"primaryBody": "vorp1",
-		"showOrbitLine": true
+		"showOrbitLine": false
 	}
 }

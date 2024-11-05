@@ -1,7 +1,7 @@
 {
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name": "Blonko",
-	"starSystem": "_DEMO.WackAhh",
+	"starSystem": "gany.Discord2",
 	"Base": {
 		"surfaceGravity": 15,
 		"soiOverride": 150,
@@ -19,7 +19,7 @@
 		"semiMajorAxis": 50,
 		"inclination": -2,
 		"primaryBody": "vorp6",
-		"showOrbitLine": true
+		"showOrbitLine": false
 	},
 	"Funnel": {
 		"type": "sand",

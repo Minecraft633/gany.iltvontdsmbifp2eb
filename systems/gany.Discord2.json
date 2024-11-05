@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
+  "canEnterViaWarpDrive": true,
+  "destroyStockPlanets": true,
+  "mapRestricted": false,
+  "Vessel": {
+    "coords": {
+      "x": [ 1, 3 ],
+      "y": [ 2, 4 ],
+      "z": [ 1, 3, 2, 4 ]
+    }
+  }
+}
